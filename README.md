@@ -1,6 +1,8 @@
 # Majority judgment vote's process
 Implementation in python of the majority judgment process.
 
+
+
 For more details, see the link below:
 
 https://en.wikipedia.org/wiki/Majority_judgment
@@ -10,6 +12,8 @@ https://en.wikipedia.org/wiki/Majority_judgment
 ## Documentation
 
 This algorithm is done with python 3.6.x.
+
+Done with the best merge of data structure for an ideal complexity.
 
 
 
