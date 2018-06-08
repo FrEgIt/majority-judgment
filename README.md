@@ -22,13 +22,13 @@ Done with the best merge of data structure for an ideal complexity.
 Do on a terminal prompt:
 
 ```shell
-$ python3 san_antonio.py
+$ python3 majority-judgment.py
 ```
 
 or,
 
 ```shell
-$ ./san_antonio.py
+$ ./majority-judgment.py
 ```
 
 
