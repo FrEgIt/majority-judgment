@@ -35,4 +35,4 @@ $ ./majority-judgment.py
 
 ## License
 
-There is no license. It's an open source project.
+There is CC-BY-SA's license. It's an open source project.
